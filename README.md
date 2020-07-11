@@ -12,9 +12,9 @@
 [5]: https://stackoverflow.com/users/7663322/akhilesh-kumar
 [6]: http://dev.to/akhileshk
 
-### Hi there 👋
+### Hi!  I'm Akhilesh 👋 
 
-Hi, I'm Akhilesh — You can find me on twitter where I talk about Software Development, Finance, Politics, Entrepreneurship & Governance. Currently **Data Science Intern@Ericsson 🚀** 
+You can find me on [twitter](https://twitter.com/akhileshk_) where I talk about Software Development, Finance, Politics, Entrepreneurship & Governance. Currently **Data Science Intern@Ericsson 🚀** 
 
 
 
@@ -28,7 +28,7 @@ Python · JavaScript · C++ · Java
 
 
 
-### Where I work.. ? 💯
+### Where I work.. ?
 
 > Data Science Intern @ [**Ericsson**](https://ericsson.com)
 
