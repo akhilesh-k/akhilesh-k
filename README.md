@@ -20,11 +20,11 @@ You can find me on [twitter](https://twitter.com/akhileshk_) where I talk about 
 
 ### My Tech Stack .. 💻
 
-Node.js · React.js · Microservices · Docker · AWS Services
+Node.js · React.js  · Docker · AWS Services
 
 SQL · MongoDB · Redis
 
-Python · JavaScript · C++ · Java
+Python · JavaScript · C++
 
 
 
