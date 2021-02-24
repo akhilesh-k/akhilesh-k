@@ -30,9 +30,9 @@ Python · JavaScript · C++
 
 ### Where I work.. ?
 
-> Data Science Intern @ [**Ericsson**](https://ericsson.com)
+> Software Engineer at **Coviam Tech**
 
-> Pewviously, Deep Learning @ [**Curo**](https://curo.com/)
+> Pewviously,  Data Science @ [**Ericsson**](https://ericsson.com) and Deep Learning @ [**Curo**](https://curo.com/)
 
 
 
