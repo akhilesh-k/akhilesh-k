@@ -20,9 +20,9 @@ You can find me on [twitter](https://twitter.com/akhileshk_) where I talk about 
 
 ### My Tech Stack .. 💻
 
-Node.js · React.js  · Docker · AWS Services
+Java Spring Boot · React.js  · Docker · AWS Services
 
-SQL · MongoDB · Redis
+PostgreSQL · MongoDB · Redis
 
 Python · JavaScript · C++
 
