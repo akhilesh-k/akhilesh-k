@@ -14,17 +14,17 @@
 
 ### Hi!  I'm Akhilesh 👋 
 
-You can find me on [twitter](https://twitter.com/akhileshk_) where I talk about Software Development, Finance, Politics, Entrepreneurship & Governance. Currently **Data Science Intern@Ericsson 🚀** 
+You can find me on [twitter](https://twitter.com/akhileshk_) where I talk about Software Development. 
 
 
 
 ### My Tech Stack .. 💻
 
-Java Spring Boot · React.js  · Docker · AWS Services
+C++ · Java · JavaScript
 
 PostgreSQL · MongoDB · Redis
 
-Python · JavaScript · C++
+VueJS · Springboot 
 
 
 
@@ -40,13 +40,7 @@ Python · JavaScript · C++
 
 I love _building products_ 🦄  
 
-Building [RemoteWay](https://twitter.com/remotewayin) 🔭  
-
-Currently learning MERN Stack. 🌱 
-
-Machayenge! ⚡  
-
-##### You can find more about me here: [akhileshkumar.me](https://akhilesh-k.github.io) or connect with on social media here.
+##### You can find more about me here: [akhileshkumar.me](https://akhileshkumar.xyz) or connect with on social media here.
 
 <!-- section - social media icons -->
 [![linkedin akhilesh-k][1.1]][1]
